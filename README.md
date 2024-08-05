@@ -1,4 +1,4 @@
-# workers-sdk-index-js-require-repro
+# workers-sdk-require-debug-repro
 
 `vendor/ext-dep` is a CommonJS dependency.
 
